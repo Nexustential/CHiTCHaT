@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CHiTCHaT/static/css/main.8293a8e4.css",
+    "main.js": "/CHiTCHaT/static/js/main.c2852dee.js",
+    "index.html": "/CHiTCHaT/index.html",
+    "main.8293a8e4.css.map": "/CHiTCHaT/static/css/main.8293a8e4.css.map",
+    "main.c2852dee.js.map": "/CHiTCHaT/static/js/main.c2852dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8293a8e4.css",
+    "static/js/main.c2852dee.js"
+  ]
+}
